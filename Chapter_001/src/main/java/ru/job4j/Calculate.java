@@ -8,10 +8,9 @@ package ru.job4j;
 
 public class Calculate {
 	/**
-	*Just main method
+	*Just main method.
 	*/
-	
-   public static void main(String[] args){
-	System.out.println("Hello World!");
+	public static void main(String[] args){
+	System.out.println("Hello World");
   }
 }
